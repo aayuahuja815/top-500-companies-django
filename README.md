@@ -1,4 +1,4 @@
-![Jio Logo](plots/download.png)
+![Jio Logo](download.png)
 # Baseline Model for NILM
 ### About The Project
 
