@@ -23,7 +23,7 @@ sudo pip install -r requirements.txt
 
 ### Gooey GUI and Usage
 
-![Gfmod1](plots/GUI_1.png)
+![Gfmod1](Screenshot from 2020-12-14 23-01-41.png)
 ![Gfmod2](plots/GUI_2.png)
 ![Gfmod3](plots/GUI_3.png)
 
